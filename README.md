@@ -7,6 +7,8 @@ Exploratory and predictive analysis of the Medicare Medical Equipment Suppliers 
 58,191 supplier records | 17 columns | Source: CMS (Centers for Medicare & Medicaid Services)
 
 ## Dataset: Medical-Equipment-Suppliers.csv
+https://data.cms.gov/provider-data/dataset/ct36-nrcq
+
 Key columns:
   - provider_id              Unique supplier identifier
   - acceptsassignement       TARGET — whether supplier accepts Medicare assignment (True/False)
